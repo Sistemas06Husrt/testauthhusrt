@@ -1,0 +1,11 @@
+{
+  "name": "testauth",
+  "version": "1.0.0",
+  "description": "auth node husrt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Guerrero",
+  "license": "ISC"
+}
